@@ -1,12 +1,25 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import { Switch, Route } from 'react-router-dom'; 
 
-import Home from './Home';
+
+// small components
+import FloatCart from "../components/FloatCart";
+
+// Views
+import Home     from './Home';
+import Filter   from "./Filter";
+import Results  from './Results';
+
 
 export default () => (
-
-    <Switch>
-        <Route exact path="/" component={Home} />
-    </Switch>
+    <Fragment>
+        <FloatCart countItens={3} />
+        <Switch>
+            <Route exact path="/" component={Home} />
+            <Route path="/filter" component={Filter} />
+            <Route path="/results" component={Results} />
+        </Switch>
+    </Fragment>
+    
 
 )

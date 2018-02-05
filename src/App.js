@@ -5,13 +5,13 @@ import { BrowserRouter as Router, Switch } from "react-router-dom";
 import RootRoutes from './views/_routes';
 
 const App = () => (
-    <main>
+    <React.Fragment>
         <Router>
             <Switch>
                 <RootRoutes />
             </Switch>
         </Router>
-    </main>
+    </React.Fragment>
     
 )
 

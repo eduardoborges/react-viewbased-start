@@ -1,0 +1,222 @@
+
+{
+    "genero":{
+        "title": "Gênero",
+        "values": [
+            {
+                "code": 1,
+                "name": "Maculino",
+                "slug": "masculino"
+            },
+            {
+                "code": 2,
+                "name": "Feminino",
+                "slug": "Feminino"
+            },
+            {
+                "code": 3,
+                "name": "Infantil",
+                "slug": "infantil"
+            }
+
+        ]
+    },
+    "cores-pulseira":{
+        "title": "Cores da Pulseira",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ullamcorper molestie.",
+        "values": [
+            {
+                "code": 10,
+                "name": "Azul",
+                "slug": "azul"
+            },
+            {
+                "code": 20,
+                "name": "Branco",
+                "slug": "branco"
+            },
+            {
+                "code": 30,
+                "name": "Cinza",
+                "slug": "cinza"
+            }
+
+        ]
+    },
+    "cores-caixa":{
+        "title": "Cores da Caixa",
+        "description": "Lorem consectetur adipiscing elit. In ullamcorper molestie.",
+        "values": [
+            {
+                "code": 10,
+                "name": "Azul",
+                "slug": "azul"
+            },
+            {
+                "code": 20,
+                "name": "Branco",
+                "slug": "branco"
+            },
+            {
+                "code": 30,
+                "name": "Cinza",
+                "slug": "cinza"
+            }
+
+        ]
+    },
+    "cores-mostrador":{
+        "title": "Cores do Mostrador",
+        "description": "Lorem consectetur adipiscing elit. In ullamcorper molestie.",
+        "values": [
+            {
+                "code": 10,
+                "name": "Azul",
+                "slug": "azul"
+            },
+            {
+                "code": 20,
+                "name": "Branco",
+                "slug": "branco"
+            },
+            {
+                "code": 30,
+                "name": "Cinza",
+                "slug": "cinza"
+            }
+
+        ]
+    },
+    "marcas":{
+        "title": "Marcas",
+        "description": "Lorem consectetur adipiscing elit. In ullamcorper molestie.",
+        "values": [
+            {
+                "code": 1,
+                "name": "Mondaime",
+                "slug": "mondaime"
+            },
+            {
+                "code": 2,
+                "name": "Technos",
+                "slug": "technos"
+            },
+            {
+                "code": 3,
+                "name": "Casio",
+                "slug": "cassio"
+            }
+
+        ]
+    },
+    "material-pulseira":{
+        "title": "Material da Pulseira",
+        "description": "Lorem consectetur adipiscing elit. In ullamcorper molestie.",
+        "values": [
+            {
+                "code": 1,
+                "name": "Mondaime",
+                "slug": "mondaime"
+            },
+            {
+                "code": 2,
+                "name": "Technos",
+                "slug": "technos"
+            },
+            {
+                "code": 3,
+                "name": "Casio",
+                "slug": "cassio"
+            }
+
+        ]
+    },
+    "material-caixa":{
+        "title": "Material da Caixa",
+        "description": "Lorem consectetur adipiscing elit. In ullamcorper molestie.",
+        "values": [
+            {
+                "code": 1,
+                "name": "Mondaime",
+                "slug": "mondaime"
+            },
+            {
+                "code": 2,
+                "name": "Technos",
+                "slug": "technos"
+            },
+            {
+                "code": 3,
+                "name": "Casio",
+                "slug": "cassio"
+            }
+
+        ]
+    },
+    "diametro-caixa":{
+        "title": "Diametro da Caixa",
+        "description": "Lorem consectetur adipiscing elit. In ullamcorper molestie.",
+        "values": [
+            {
+                "code": 1,
+                "name": "Mondaime",
+                "slug": "mondaime"
+            },
+            {
+                "code": 2,
+                "name": "Technos",
+                "slug": "technos"
+            },
+            {
+                "code": 3,
+                "name": "Casio",
+                "slug": "cassio"
+            }
+
+        ]
+    },
+    "resistencia-agua":{
+        "title": "Resistência à Água",
+        "description": "Lorem consectetur adipiscing elit. In ullamcorper molestie.",
+        "values": [
+            {
+                "code": 1,
+                "name": "Mondaime",
+                "slug": "mondaime"
+            },
+            {
+                "code": 2,
+                "name": "Technos",
+                "slug": "technos"
+            },
+            {
+                "code": 3,
+                "name": "Casio",
+                "slug": "cassio"
+            }
+
+        ]
+    },
+    "tipo-mecanismo":{
+        "title": "Tipo de mecanismo",
+        "description": "Lorem consectetur adipiscing elit. In ullamcorper molestie.",
+        "values": [
+            {
+                "code": 1,
+                "name": "Mondaime",
+                "slug": "mondaime"
+            },
+            {
+                "code": 2,
+                "name": "Technos",
+                "slug": "technos"
+            },
+            {
+                "code": 3,
+                "name": "Casio",
+                "slug": "cassio"
+            }
+
+        ]
+    }
+}
